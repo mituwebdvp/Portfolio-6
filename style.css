@@ -1,0 +1,39 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.border {
+    width:1200px;
+    height:600px;
+    background-color: #7a7272;
+
+}
+
+
+.first_brd {
+    height:580px;
+    width:600px;
+    background-color: blueviolet;
+    margin:10px;
+    padding:10px;
+    border:10px solid yellow;
+    box-sizing: border-box;
+
+}
+
+
+.snd_brd {
+    height:580px;
+    width:600px;
+    background-color: brown;
+    margin:10px;
+    padding:10px;
+    border:10px solid pink;
+    box-sizing: border-box;
+}
+
+.border {
+    display:flex;
+    
+}
